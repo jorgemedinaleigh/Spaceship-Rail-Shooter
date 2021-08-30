@@ -50,7 +50,9 @@ MonoBehaviour:
   controlSpeed: 30
   xRange: 16
   yRange: 13
-  lasers: []
+  lasers:
+  - {fileID: 551225699491943844, guid: e351ad88b3aa7b847ac5a42db60d4ccb, type: 3}
+  - {fileID: 551225699491943844, guid: e351ad88b3aa7b847ac5a42db60d4ccb, type: 3}
   positionPitchFactor: -2
   controlPitchFactor: -15
   positionYawFactor: 3
