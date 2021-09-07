@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    [SerializeField] GameObject deathVFX;
-    
+    [SerializeField] GameObject deathVFX;    
     [SerializeField] int score = 5;
     [SerializeField] int hitPoints = 5;
 
